@@ -1,0 +1,27 @@
+img.card-img-top {
+        text-align:center;
+        width:50%;
+        height:50%;
+        }  
+        
+        div.bell {
+        text-align:center;
+        margin-left:auto;
+        margin-right:auto;
+        }
+            .jumbotron {
+        opacity:1.0;
+        font-weight:bold;
+        vertical-align:top;
+        background-color:white;
+        text-align:left;
+        font-family:""; 
+        }
+        
+        body{
+                    background-image:url('https://codehs.com/uploads/2ba0df7c79338bb351e4c505a7698a9a');
+        }
+        
+        html{
+            background-image:url('https://codehs.com/uploads/2ba0df7c79338bb351e4c505a7698a9a');
+        }
