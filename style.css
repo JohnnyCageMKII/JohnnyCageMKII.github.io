@@ -25,3 +25,20 @@ img.card-img-top {
         html{
             background-image:url('https://codehs.com/uploads/2ba0df7c79338bb351e4c505a7698a9a');
         }
+        h3{   
+        opacity:1.0;
+        font-weight:bold;
+        vertical-align:top;
+        background-color:white;
+        text-align:left;
+        }
+        dl{   
+        opacity:1.0;
+        font-weight:bold;
+        vertical-align:top;
+        background-color:white;
+        text-align:left;
+        }
+        a {
+            color:#004794;
+        }
