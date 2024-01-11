@@ -17,13 +17,8 @@ img.card-img-top {
         text-align:left;
         font-family:""; 
         }
-        
-        body{
-                    background-image:url('https://codehs.com/uploads/2ba0df7c79338bb351e4c505a7698a9a');
-        }
-        
-        html{
-            background-image:url('https://codehs.com/uploads/2ba0df7c79338bb351e4c505a7698a9a');
+        Body {
+            background-color:black;
         }
         h3{   
         opacity:1.0;
@@ -38,9 +33,6 @@ img.card-img-top {
         vertical-align:top;
         background-color:white;
         text-align:left;
-        }
-        a {
-            color:#004794;
         }
         a {
   overflow: hidden;
@@ -97,7 +89,7 @@ body {
   font-size: 17px;
 	line-height: 1.5;
   height: 100vh;
-	place-items: center;
+	place-items: ;
 }
 
 a {
