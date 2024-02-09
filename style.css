@@ -13,12 +13,12 @@ img.card-img-top {
         opacity:1.0;
         font-weight:bold;
         vertical-align:top;
-        background-color:#C1950E;
+        background-color:#f0ff00;
         text-align:left;
         font-family:""; 
         }
         Body {
-            background-color:#262626;
+            background-color:#4e4a48;
         }
         h3{   
         opacity:1.0;
@@ -32,6 +32,14 @@ img.card-img-top {
         font-weight:bold;
         vertical-align:top;
         background-color:#d1802e;
+        text-align:left;
+        }
+        .page-link{ 
+        opacity:1.0;
+        font-weight:bold;
+        vertical-align:top;
+        color:#FAFAFA;
+        background-color:#4D4D4D;
         text-align:left;
         }
         a {
@@ -97,7 +105,6 @@ a {
 	color: #18272F;
 	font-weight: 700;
 	vertical-align: top;
-}
 }
 div.translate {
     background-color:#F0F0F0;
