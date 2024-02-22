@@ -110,3 +110,9 @@ div.translate {
     background-color:#F0F0F0;
     color:;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
